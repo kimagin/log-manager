@@ -1,14 +1,12 @@
 
 
 <h1 align="center">
-📑Creationist
+📑Log Manager
 </h1>
 <p align="center">
-    modern task manager app like no other 
-</p>
-<p align="center">
-w.i.p
+    A simple Vue❤️ based log manager with time stamp
 </p>
 
 
-<h1 align="center">Features ⚡️ to be announced</h1>
+
+<h1 align="center">The project was a prototype for Vitality. Features to add will be announced.</h1>
